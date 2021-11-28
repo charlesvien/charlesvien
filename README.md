@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Charles Vien</h2>
+<h2>Hi 👋, I'm Charles</h2>
 
 - 🔭 I love building full stack apps and bringing an idea from concept to reality.
 - 🌱 I’m currently learning **Solidity, Rust** and working with [Web3](https://coinmarketcap.com/alexandria/article/what-is-web-3-0) technologies.
