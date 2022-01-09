@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Charles</h2>
 
-- 🔭 I love building experiences and bringing an idea from concept to reality.
+- 🔭 I love building experiences and bringing an idea from conception to completion.
 - 🌱 I’m currently learning **Solidity, Rust** and working with [Web3](https://coinmarketcap.com/alexandria/article/what-is-web-3-0) technologies.
  
 <p align="left">
